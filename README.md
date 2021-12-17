@@ -12,6 +12,8 @@ Git clone this repo using your SSH key. In Visual Studio Code or a similar appli
 
 Make sure to update your password for MySQL in the server.js file. Type in 'node server.js' to run the application. This will run in the command line of your terminal
 <br>
+Deployed video of application: https://watch.screencastify.com/v/IyoH9etW9SIp7B9c3vCo
+<br>
 <br>
 Screenshots
 <br>
